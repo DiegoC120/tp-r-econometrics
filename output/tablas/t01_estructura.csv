@@ -1,0 +1,5 @@
+archivo,filas,columnas,contenido
+train.csv,456548,9,Pedidos semanales por centro y plato (semanas 1-145)
+test.csv,32573,8,Similar pero sin la variable a predecir (semanas 146-155)
+meal_info.csv,51,3,Dimensiones de platos: categoría y tipo de cocina
+fulfilment_center_info.csv,77,5,"Dimensiones de centros: ciudad, región, tipo y área de operación"

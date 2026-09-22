@@ -1,0 +1,4 @@
+.model,MASE_promedio,MAPE_promedio
+arima,0.367,36.05
+arimax,0.53,60.13
+snaive,1.039,115.38

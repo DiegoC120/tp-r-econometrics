@@ -1,0 +1,3 @@
+serie,estadistico,p_valor,conclusion
+pedidos (nivel),-4.794,0.01,se rechaza raiz unitaria
+primera diferencia,-8.973,0.01,se rechaza raiz unitaria

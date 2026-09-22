@@ -1,0 +1,5 @@
+modelo,especificacion
+arima,"ARIMA(0,1,2)"
+arima_d0,"ARIMA(2,0,3) w/ mean"
+sarima,"ARIMA(0,1,2)"
+arimax,"LM w/ ARIMA(1,0,0) errors"

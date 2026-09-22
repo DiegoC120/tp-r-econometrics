@@ -1,0 +1,10 @@
+variable,tipo,rol
+id,entero (identificador),clave
+week,entero (índice temporal 1-155),índice de tiempo
+center_id,entero (identificador),clave de panel
+meal_id,entero (identificador),clave de panel
+checkout_price,numérica continua,precio efectivamente cobrado
+base_price,numérica continua,precio de lista
+emailer_for_promotion,binaria 0/1,campaña de email
+homepage_featured,binaria 0/1,destaque en página principal
+num_orders,entero (conteo),VARIABLE DEPENDIENTE: pedidos de la semana

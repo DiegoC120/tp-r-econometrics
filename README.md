@@ -10,7 +10,7 @@ Laboratorio de Programación en Python y R · Maestría en Econometría · Unive
 
 Un análisis para construir un sistema de pronóstico de demanda a diez semanas para una empresa de reparto de comida que opera 77 centros de distribución, con modelos de series de tiempo (ARIMA / SARIMA / ARIMAX) sobre 145 semanas de historia.
 
-El trabajo completo está narrado en [**`informe.pdf`**](informe.pdf), que teje resultados e imágenes creadas con distintas librerías de R.
+El trabajo completo está narrado en [**`Informe.pdf`**](Informe.pdf), que teje resultados e imágenes creadas con distintas librerías de R.
 
 ## El dataset
 
